@@ -3,7 +3,7 @@
 ### Problem:
 * The web contains the best of humanity, but also the worst; and we do not want unfettered access to the darkest corners of the internet.
 * We do not want advertising aimed at young women causing insecurity and depression.
-* We do not want social media hooking their attention with AI-generated beauty wars, deceptive journalism, and promotions of ("Ant Mill")[https://en.wikipedia.org/wiki/Ant_mill] cultures.
+* We do not want social media hooking their attention with AI-generated beauty wars, deceptive journalism, and promotions of ["Ant Mill"](https://en.wikipedia.org/wiki/Ant_mill) cultures.
 
 
 ### Solution:
